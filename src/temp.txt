@@ -1,0 +1,22 @@
+while(tweets<num){
+    req(url)
+
+    url=btn url
+}
+
+
+
+arr[{text:'hello',img:'url', replyto :['djfhsdkl']},
+        {text:'hello',img:'url', replyto :['djfhsdkl']},
+        {text:'hello',img:'url', replyto :['djfhsdkl']}]
+
+
+
+        // > td > div.tweet-text > div
+// console.log(tw.length)
+// #main_content > div.timeline > table:nth-child(2) > tbody > tr.tweet-container > td > div.tweet-text > div
+// #main_content > div.timeline > table:nth-child(2) > tbody > tr.tweet-container > td > div.tweet-reply-context.username > a:nth-child(1)
+// #main_content > div.timeline > table:nth-child(7) > tbody > tr:nth-child(3) > td > span.metadata > a
+// button= #main_content > div.timeline > div > a
+// time=#main_content > div.timeline > table:nth-child(2) > tbody > tr.tweet-header > td.timestamp > a
+// image=#main_content > div.timeline > table:nth-child(8) > tbody > tr:nth-child(3) > td > span.metadata > a
